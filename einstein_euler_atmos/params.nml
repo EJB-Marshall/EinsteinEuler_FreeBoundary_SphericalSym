@@ -1,0 +1,15 @@
+&Grid_Params
+Nx = 6400
+Ngz = 3
+/
+
+&Sim_Params
+t0 = 0.000000000000000e+00
+tend = 1.000000000000000e+02
+filename = 'test_atmosphere_N6400_Static_Minmod.hdf5'
+/
+&Aux_Params
+aux1 = 1.000000000000000e+00
+aux2 = 0.000000000000000e+00
+aux3 = 0.000000000000000e+00
+/
