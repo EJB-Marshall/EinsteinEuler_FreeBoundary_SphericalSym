@@ -14,7 +14,7 @@ After compiling the fortran code, a simulation can be run using run_sim.py which
 - K - The sound speed parameter
 - f - The filename to be saved (must include .hdf5 extension)
 
-For example, a simulation with a 1000 grid points and K=1 can be run using 
+For example, a simulation with 1000 grid points and K=1 can be run using 
 ```
 python3 -O run_sim.py -N 1000 -K 1.0 -f output.hdf5 
 ```
